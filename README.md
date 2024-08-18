@@ -26,7 +26,7 @@ K8s YAML Configuration File
 ►  demo
 
 
-Demo Project
+Demo Project follow steps
 ►  Deploying MongoDB and Mongo Express
 ►  MongoDB Pod
 ►  Secret
