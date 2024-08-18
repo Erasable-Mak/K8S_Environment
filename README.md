@@ -28,7 +28,7 @@
 
 
 
-K8s YAML Configuration File
+🚀 K8s YAML Configuration File
 
 ►  3 parts of a Kubernetes config file (metadata, specification, status)
 
@@ -42,7 +42,7 @@ K8s YAML Configuration File
 
 
 
-Demo Project follow steps
+🚀 Demo Project follow steps
 
 ►  Deploying MongoDB and Mongo Express
 
@@ -58,7 +58,7 @@ Demo Project follow steps
 
 
 
-Organizing your components with K8s Namespaces
+🚀 Organizing your components with K8s Namespaces
 
 ►  What is a Namespace?
 
@@ -76,7 +76,7 @@ Organizing your components with K8s Namespaces
 
 
 
-K8s Ingress explained
+🚀 K8s Ingress explained
 
 ►  What is Ingress? External Service vs. Ingress
 
@@ -100,7 +100,7 @@ K8s Ingress explained
 
 
 
-Helm - Package Manager
+🚀 Helm - Package Manager
 
 ►  Package Manager and Helm Charts
 
@@ -116,7 +116,7 @@ Helm - Package Manager
 
 
 
-Persisting Data in K8s with Volumes
+🚀 Persisting Data in K8s with Volumes
 
 ►  The need for persistent storage & storage requirements
 
@@ -136,7 +136,7 @@ Persisting Data in K8s with Volumes
 
 
 
-Deploying Stateful Apps with StatefulSet
+🚀 Deploying Stateful Apps with StatefulSet
 
 ►  What is StatefulSet? Difference of stateless and stateful applications
 
@@ -154,7 +154,7 @@ Deploying Stateful Apps with StatefulSet
 
 
 
-K8s Services
+🚀 K8s Services
 
 ►   What is a Service in K8s and when we need it?
 
