@@ -10,7 +10,7 @@
 
 
 
-Main Kubectl Commands - K8s CLI
+🚀 Main Kubectl Commands - K8s CLI
 
 ►  Get status of different components
 
